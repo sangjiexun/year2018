@@ -1,0 +1,2 @@
+# year2018
+Blochain区块链项目ICO运营及ERC20代币LOGO设计以及代币合约开发，游戏领域为主
